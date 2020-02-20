@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Sandeep Kothapalli',
+  subtitle: 'I am a senior programmer analyst having 8+ years of experience in developing web applications using Microsoft stack. I always like o explore new technologies',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Sandeep Kothapalli',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a senior programmer analyst having 8+ years of experience in developing web applications using Microsoft stack. I always like o explore new technologies',
     contacts: {
-      email: '',
+      email: 'sandeep.kothapalli1@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
