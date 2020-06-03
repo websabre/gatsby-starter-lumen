@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.sandeepkothapalli.dev/',
   pathPrefix: '/',
   title: 'Blog by Sandeep Kothapalli',
   subtitle: 'I am a senior programmer analyst having 8+ years of experience in developing web applications using Microsoft stack. I always like o explore new technologies',
